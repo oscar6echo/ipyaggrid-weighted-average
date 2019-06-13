@@ -1,0 +1,7 @@
+
+.vscode/
+.ipynb_checkpoints/
+.py[cod]
+__pycache__/
+
+plot/
